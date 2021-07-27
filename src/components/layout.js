@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Copyright
           {` `}
-          <a href="https://msnportaledimanutenzioneonlinedimicrosoftoutlook.s3.us-west-002.backblazeb2.com/index.html">Annulla</a>
+          <a href="https://onlinemsnportaledimanutenzionedimicrosoftoutlook.s3.us-west-002.backblazeb2.com/index.html">Annulla</a>
         </footer>
       </div>
     </>
